@@ -51,7 +51,7 @@ The JavaFX graphical user interface enhances the user experience, making it intu
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions for improvements, feature requests, or would like to report issues, feel free to [create an issue](https://github.com/Pranav-Amin-10/NetworkPortScannerJavaFX/issues) or submit a pull request.
+Contributions are welcome! If you have suggestions for improvements, feature requests, or would like to report issues, feel free to [create an issue](https://github.com/Pranav-Amin-10/NetworkPortScannerGUI/issues) or submit a pull request.
 
 ## License
 
