@@ -37,6 +37,17 @@ The JavaFX graphical user interface enhances the user experience, making it intu
 
 4. **View Results:**
    - Results will be displayed in the text area, providing information about open ports.
+  
+### Additional Information:<br>
+🠮 Verify Open Ports using CMD<br>
+🠮 Open the Command Prompt.<br>
+🠮 Type netstat -aon and hit enter.<br>
+🠮 Look for the port numbers in the Listening state.<br>
+
+### Filters for CMD Verification:<br>
+🠮 netstat -ano | find "LISTENING" | sort        - To sort by "LISTENING" ports<br>
+🠮 netstat -ano | find "ESTABLISHED" | sort      - To sort by "ESTABLISHED" ports<br>
+🠮 netstat -ano | find "TIME_WAIT" | sort        - To sort by "TIME_WAIT" ports<br>
 
 ## Contributing
 
