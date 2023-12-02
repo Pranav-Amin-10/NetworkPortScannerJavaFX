@@ -1,7 +1,3 @@
-Certainly! Here's an extended and more detailed README file for the JavaFX Network Port Scanner application:
-
----
-
 # Network Port Scanner using JavaFX <br>
 
 This Java application provides a comprehensive graphical user interface for scanning open ports on a target system within a network. Developed using JavaFX, the application simplifies the process of configuring, initiating, and viewing results of port scans.
